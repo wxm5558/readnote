@@ -1,1 +1,4 @@
+modify dev2.txt on branch dev
+then cherry pick the commit to dev2 branch
+this is for test
 dev2
